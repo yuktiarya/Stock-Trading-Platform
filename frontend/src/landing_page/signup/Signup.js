@@ -17,7 +17,7 @@ function Signup() {
               <input type="text" className="form-control" placeholder="Mobile Number" autoFocus />
             </div>
             <p className="text-muted" style={{ fontSize: "12px" }}>You will receive an OTP on your number</p>
-            <a className="btn btn-primary mb-3" style={{ width: "80%", padding: "10px", fontSize: "18px" }} href="http://localhost:3001/" target="_blank" rel="noopener noreferrer">Continue</a>
+            <a className="btn btn-primary mb-3" style={{ width: "80%", padding: "10px", fontSize: "18px" }} href="https://stock-trading-platform-hf1u.onrender.com" target="_blank" rel="noopener noreferrer">Continue</a>
             <a href="/" style={{ textDecoration: "none", fontSize: "12px" }}>Want to open an NRI account?</a>
           </div>
         </div>
